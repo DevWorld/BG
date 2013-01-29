@@ -1,2 +1,2 @@
-BG
-==
+A Small Open Browsergame
+
